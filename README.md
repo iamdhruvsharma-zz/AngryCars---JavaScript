@@ -4,7 +4,7 @@
 
 In this project, I developed a simple racing game using Javascript.
 
-Screenshots:
+### Screenshots:
 
 
 <p align="center">
