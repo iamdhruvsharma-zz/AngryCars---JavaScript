@@ -8,6 +8,6 @@ Screenshots:
 
 <img src="Screenshots/Capture1.PNG">
 
-<img src="Screenshots/Capture2.PNG">
+<img src="Screenshots/Capture2.PNG" style="vertical-align:middle">
 
 <img src="Screenshots/Capture3.PNG">
