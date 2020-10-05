@@ -7,3 +7,7 @@ In this project, I developed a simple racing game using Javascript.
 Screenshots:
 
 <img src="Screenshots/Capture1.PNG">
+
+<img src="Screenshots/Capture2.PNG">
+
+<img src="Screenshots/Capture3.PNG">
