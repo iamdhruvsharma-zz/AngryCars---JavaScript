@@ -1,0 +1,52 @@
+.hide {
+    display: none;
+}
+
+.car, .enemy {
+    position: absolute;
+    bottom: 100px;
+    margin: auto;
+    /*left: 200px;*/
+    width: 50px;
+    height: 110px;
+    background-color: blue;
+    background-image: url(dxtCar.png);
+    background-size: cover;
+}
+
+.bangersFont {
+    font-family: 'Bangers', cursive;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    /*padding: 10px;*/
+}
+
+.line {
+    position: absolute;
+    height: 100px;
+    width: 10px;
+    left: 142px;
+    background-color: white;
+}
+
+.score {
+    background-color: black;
+    height: 70px;
+    width: 300px;
+    align-self: center;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    color: white;
+}
+
+.gameArea {
+    background-color: black;
+    width: 300px;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+}
