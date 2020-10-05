@@ -10,4 +10,4 @@ Screenshots:
 
 <img src="Screenshots/Capture2.PNG" style="align: center">
 
-<img src="Screenshots/Capture3.PNG">
+<img src="Screenshots/Capture3.PNG" style = "display: block; margin-left: auto; margin-right: auto; width: 50%;">
